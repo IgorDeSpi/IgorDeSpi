@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CPP module 09
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning C and C++ at [19](https://campus19.be/)
 - 💬 Ask me about whatever you want
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igor-de-spirlet), Discord : Karkaroff25
 - ⚡ Fun fact: Hockey player since the age of four
